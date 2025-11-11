@@ -1,4 +1,4 @@
-# URL Shortener (Ruckus Networks) — README
+# URL Shortener (Ruckus Networks) - TASK — README
 
 Simple URL shortener service implemented in Go. This repo contains a small HTTP API to shorten URLs and redirect short codes to original URLs. The service uses an in-memory storage implementation and is packaged with Docker and Docker Compose.
 
